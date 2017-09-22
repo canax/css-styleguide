@@ -1,6 +1,8 @@
 CSS Style Guide
 ==================================
 
+[![Join the chat at https://gitter.im/canax/css-styleguide](https://badges.gitter.im/canax/css-styleguide.svg)](https://gitter.im/canax/css-styleguide?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![npm version](https://badge.fury.io/js/css-styleguide.svg)](https://badge.fury.io/js/css-styleguide)
 [![Gitter](https://badges.gitter.im/canax/css-styleguide.svg)](https://gitter.im/canax/css-styleguide?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
 [![Build Status](https://travis-ci.org/canax/css-styleguide.svg?branch=master)](https://travis-ci.org/canax/css-styleguide)
