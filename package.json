@@ -1,0 +1,28 @@
+{
+    "name": "css-styleguide",
+    "version": "v0.9.0",
+    "description": "CSS Style Guide with basics, examples and default configuration files for validators.",
+    "main": null,
+    "devDependencies": {
+        "stylelint": "^8.1.1",
+        "jsonlint": "^1.6.2"
+    },
+    "scripts": {
+        "test": "make test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/canax/css-styleguide.git"
+    },
+    "keywords": [
+        "css",
+        "codestyle",
+        "stylelint"
+    ],
+    "author": "Mikael Roos mos@dbwebb.se (https://mikaelroos.se)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/canax/css-styleguide/issues"
+    },
+    "homepage": "https://github.com/canax/css-styleguide#readme"
+}
