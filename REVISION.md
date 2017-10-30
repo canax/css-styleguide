@@ -2,6 +2,13 @@ Revision history
 =======================================
 
 
+v0.9.6 (2017-10-30)
+---------------------------------------
+
+* Update .stylelintrc to be latest version.
+* Added testcase for comments.css and empty-file.css.
+
+
 v0.9.5 (2017-10-27)
 ---------------------------------------
 
