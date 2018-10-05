@@ -3,10 +3,11 @@ Revision history
 
 
 
-v1.0.1 (2018-10-05)
+v1.0.2 (2018-10-05)
 ---------------------------------------
 
 * Update build config on circleci.
+* Remove package-lock.json.
 
 
 
