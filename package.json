@@ -1,6 +1,6 @@
 {
   "name": "@desinax/css-styleguide",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Desinax CSS Style Guide with basics, examples and default configuration files for validators.",
   "main": null,
   "devDependencies": {
